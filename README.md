@@ -9,9 +9,7 @@ Finally, experience with languages ​​such as Java and JavaScript. I would al
 - 💻 I’m currently working at [Philips](https://www.philips.com.br/) as software architect.
 
 <p align="center">
-<a href="https://twitter.com/vladsbg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vladsbg" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/vladsbg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vladsbg" height="20" width="20" /></a>
-<a href="https://dev.to/vladsbg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="vladsbg" height="20" width="20" /></a>
 </p>
 
 <!--
